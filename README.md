@@ -1,3 +1,8 @@
+# 進捗
+steveで，conda(rllib)にて実行中
+conda rllib作成
+conda rllib に rllib, pytorch isntall
+
 # Rllibまとめ
 [Getting Started with RLlib](https://docs.ray.io/en/latest/rllib/rllib-training.html)
 - trainして，saveする．
