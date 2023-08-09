@@ -2,6 +2,8 @@
 steveで，conda(rllib)にて実行中
 conda rllib作成
 conda rllib に rllib, pytorch isntall
+サーバー直接ray動かせない→dockerでやる→vscodeで編集できない．．となるので，ray clusterでやる．
+どっかの小さいサーバーをheadにして，steveとかの大きいサーバーでcluster起動しておく．
 
 # Rllibまとめ
 [Getting Started with RLlib](https://docs.ray.io/en/latest/rllib/rllib-training.html)
@@ -24,3 +26,6 @@ conda rllib に rllib, pytorch isntall
 
 [Environments](https://docs.ray.io/en/latest/rllib/rllib-env.html)
 - 
+
+[Ray Clusters](https://docs.ray.io/en/latest/cluster/getting-started.html)
+[How to create ray cluster](https://docs.ray.io/en/latest/cluster/vms/user-guides/launching-clusters/on-premises.html#on-prem)
